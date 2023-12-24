@@ -1,6 +1,11 @@
 # todo_app
 
-A new Flutter project.
+flutterで簡易的なCRUD処理を行えるtodoアプリを作成。
+
+SQLiteも使用。
+
+参考にした動画
+https://www.youtube.com/watch?v=xWt7dwcR1jo
 
 ## Getting Started
 
